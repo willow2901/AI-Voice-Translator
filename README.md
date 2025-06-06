@@ -29,7 +29,7 @@ The goal is to explore the technical challenges and creative potential of multil
 
 ## 📂 Project Files
 
-- `ai_voice_translator.ipynb` – Google Colab notebook with end-to-end pipeline
+- `aitranslate.ipynb` – Google Colab notebook with end-to-end pipeline
 
 ---
 
@@ -61,7 +61,6 @@ The same message, now translated into English — while trying to  preserve the 
   <source src="translated_english_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
 
 
 ## 🔧 Future Improvements
