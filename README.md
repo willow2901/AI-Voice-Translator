@@ -42,6 +42,28 @@ The goal is to explore the technical challenges and creative potential of multil
 
 ---
 
+## 🎙️ Demo
+
+Listen to a test of the AI Voice Translation system in action:
+
+**Original (Spanish)**  
+A short audio clip from a Spanish-speaking content creator:
+
+<audio controls>
+  <source src="original_spanish_audio.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+**Translated (English, voice cloned)**  
+The same message, now translated into English — while trying to  preserve the speaker's unique voice and tone:
+
+<audio controls>
+  <source src="translated_english_audio.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+
 ## 🔧 Future Improvements
 
 - Add speaker identity selection UI
