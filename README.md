@@ -2,7 +2,6 @@
 
 A real-time voice translation system that converts spoken Spanish into English **while preserving the original speaker’s voice**. This project explores how AI models can be combined to perform **speech-to-text**, **translation**, and **voice cloning** in a seamless pipeline.
 
-The goal is to build a fast and user-friendly tool that helps content creators reach audiences beyond their native language, without losing the original voice or feel of their message.
 
 ---
 
@@ -13,7 +12,8 @@ This project demonstrates how multiple deep learning components can be integrate
 - Translate it to English with **Deep Translator**
 - Re-synthesize the English speech in the *original speaker’s voice* using **XTTS**
 
-The goal is to explore the technical challenges and creative potential of multilingual, real-time speech processing.
+The goal is to explore the technical challenges and creative potential of multilingual, real-time speech processing and eventually build a fast and user-friendly tool that helps content creators reach audiences beyond their native language. All without losing the original voice or feel of their message.
+
 
 ---
 
