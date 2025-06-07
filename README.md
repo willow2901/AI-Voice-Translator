@@ -48,11 +48,11 @@ Listen to a test of the AI Voice Translation system in action:
 
 **Original (Spanish)**  
 A short audio clip from a Spanish-speaking content creator:  
-[▶️ Listen to Original Audio] https://drive.google.com/uc?export=download&id=1BRm9iT0fGGoFgqpouGW4y-VHalbkWEdt
+[▶️ Listen to Original Audio](https://drive.google.com/file/d/1BRm9iT0fGGoFgqpouGW4y-VHalbkWEdt/view?usp=drive_link)
 
 **Translated (English, voice cloned)**  
 The same message, now translated into English — while preserving the speaker’s unique voice and tone:  
-[▶️ Listen to Translated Audio](https://drive.google.com/uc?export=download&id=1dCReWMY8afQxxjEoL_0y0bg2fqi_I_Tc)
+[▶️ Listen to Translated Audio](https://drive.google.com/file/d/1dCReWMY8afQxxjEoL_0y0bg2fqi_I_Tc/view?usp=drive_link)
 
 ## 🔧 Future Improvements
 
