@@ -58,7 +58,7 @@ A short audio clip from a Spanish-speaking content creator:
 The same message, now translated into English — while trying to  preserve the speaker's unique voice and tone:
 
 <audio controls>
-  <source src="translated_english_audio.mp3" type="audio/mpeg">
+  <source src="https://drive.google.com/file/d/1dCReWMY8afQxxjEoL_0y0bg2fqi_I_Tc/view?usp=drive_link" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
