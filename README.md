@@ -48,7 +48,7 @@ Listen to a test of the AI Voice Translation system in action:
 
 **Original (Spanish)**  
 A short audio clip from a Spanish-speaking content creator:  
-[▶️ Listen to Original Audio](https://drive.google.com/uc?export=download&id=1BRm9iT0fGGoFgqpouGW4y-VHalbkWEdt)
+[▶️ Listen to Original Audio] https://drive.google.com/uc?export=download&id=1BRm9iT0fGGoFgqpouGW4y-VHalbkWEdt
 
 **Translated (English, voice cloned)**  
 The same message, now translated into English — while preserving the speaker’s unique voice and tone:  
