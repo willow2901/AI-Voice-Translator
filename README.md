@@ -50,7 +50,9 @@ Listen to a test of the AI Voice Translation system in action:
 A short audio clip from a Spanish-speaking content creator:
 
 <audio controls>
-  <source src="original_spanish_audio.mp3" type="audio/mpeg">
+  <source src="https://drive.google.com/uc?export=download&id=1BRm9iT0fGGoFgqpouGW4y-VHalbkWEdt" type="audio/mpeg">
+  https://drive.google.com/file/d/1BRm9iT0fGGoFgqpouGW4y-VHalbkWEdt/view?usp=drive_link
+  1BRm9iT0fGGoFgqpouGW4y-VHalbkWEdt
   Your browser does not support the audio element.
 </audio>
 
@@ -58,7 +60,8 @@ A short audio clip from a Spanish-speaking content creator:
 The same message, now translated into English — while trying to  preserve the speaker's unique voice and tone:
 
 <audio controls>
-  <source src="https://drive.google.com/file/d/1dCReWMY8afQxxjEoL_0y0bg2fqi_I_Tc/view?usp=drive_link" type="audio/mpeg">
+  <source src="https://drive.google.com/uc?export=download&id=1dCReWMY8afQxxjEoL_0y0bg2fqi_I_Tc" type="audio/mpeg">
+  
   Your browser does not support the audio element.
 </audio>
 
